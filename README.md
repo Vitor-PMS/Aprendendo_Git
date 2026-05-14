@@ -12,3 +12,7 @@ Agora, alterei esse arquivo diretamente pelos arquivos (pastas) do meu computado
 
 Alterei de novo
 
+
+
+Essa nova alteração representa meu 2º commit da rede local para a nuvem (local -> nuvem)
+
