@@ -15,4 +15,4 @@ Alterei de novo
 
 
 Essa nova alteração representa meu 2º commit da rede local para a nuvem (local -> nuvem)
-
+Essa alteração foi realizada na nuvem e será puxada para o local com git pull
